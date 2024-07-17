@@ -19,7 +19,7 @@ const NavigationComponent = () => {
                 </nav>
 
                 <Routes>
-                    <Route exact path='/' element={<HomeComponent/>}></Route>
+                    <Route exact path='/REACT-WEBSITE' element={<HomeComponent/>}></Route>
                     <Route exact path='/cart' element={<CartComponent/>}></Route>
                 </Routes>
             </BrowserRouter>
