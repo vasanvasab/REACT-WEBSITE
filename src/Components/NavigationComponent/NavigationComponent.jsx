@@ -13,7 +13,7 @@ const NavigationComponent = () => {
             <BrowserRouter>
                 <nav className='nav-bar'>
                     <ul>
-                        <li id='home'><Link to='/'>Home</Link></li>
+                        <li id='home'><Link to='/REACT-WEBSITE'>Home</Link></li>
                         <li id='cart'><Link to='/cart'>Cart</Link></li>
                     </ul>
                 </nav>
